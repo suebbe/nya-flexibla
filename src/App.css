@@ -1,32 +1,23 @@
-.App {
-  text-align: center;
+@import './Normalize.css';
+@import './Globals.css';
+@import './Grid.css';
+@import './components/main/Main.css';
+@import './components/nav/Nav.css';
+
+.app {
+  position: absolute;
+  width: 100% !important;
+  height: 100% !important;
+  background-image: url("macbook-background.jpg");
+  background-size: cover;
+  background-position: right;
+  font-family: 'Lato', sans-serif;
+  overflow: auto;
+  margin: 0 auto;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+* {
+  margin: 0 auto;
 }

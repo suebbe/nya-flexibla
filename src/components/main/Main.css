@@ -1,0 +1,42 @@
+.first-wrapper{
+  opacity: .8;
+  background-color: black;
+  width: 100% !important;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.footer-wrapper{
+  background-color: black;
+  width: 100% !important;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: white;
+  text-align: center;
+}
+
+.row {
+  color: white;
+  max-width: 1000px;
+}
+
+.third-row {
+  padding-bottom: 30px;
+}
+
+.col {
+  min-width: 280px;
+  margin: 20px;
+}
+
+.footer-wrapper a {
+  font-size: 30px;
+  color: rgb(115,194,190);
+}
+
+.footer-wrapper a:hover {
+    text-decoration: none;
+    color: rgb(92,155,152);
+}
