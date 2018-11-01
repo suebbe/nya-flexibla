@@ -39,10 +39,12 @@ class Main extends Component {
         <div className="row">
          <div className="col">
           <h3>Hur blir jag kund hos er?</h3>
-          <p>Klicka <b><a href="#">här</a></b> för att skicka en intresseanmälan
-          till oss. Vi återkopplar till dig snarast. Vi tar hand om
-          intergrationen till ditt nuvarande bokföringssystem och sköter om
-          administrationen åt dig vid en affär.</p>
+          <p>Klicka <b><a href="mailto:info@flexiblakontoret.nu">här</a></b> för
+          att skicka en intresseanmälan till oss så kontaktar vi dig snarast.
+          Du är även välkommen att ringa till oss på 020-44 80 00 för att komma
+          i kontakt med en säljare direkt. Vi tar sedan hand om intergrationen
+          till ditt nuvarande bokföringssystem och sköter om administrationen åt
+          dig vid en affär.</p>
          </div>
          <div className="col">
           <h3>Boka utbildningstillfälle?</h3>
