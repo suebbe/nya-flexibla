@@ -4,7 +4,7 @@ class Main extends Component {
   render() {
     return (
       <div className="main-content-wrapper">
-        <div className="row first-row">
+        <div className="row">
          <div className="col center-align">
            <h1>En smidig administrationstjänst för proffshantverkare</h1>
            <p>Att hantera administration parallellt med yrket som hantverkare
@@ -14,7 +14,7 @@ class Main extends Component {
            fakturering och betalning.</p>
          </div>
         </div>
-        <div className="row second-row">
+        <div className="row">
          <div className="col">
            <h3>Vad erbjuder lösningen?</h3>
            <p>Kundregister, arbetsorder, inköpt material, tidrapportering och
@@ -36,7 +36,7 @@ class Main extends Component {
            </p>
          </div>
         </div>
-        <div className="row third-row">
+        <div className="row">
          <div className="col">
           <h3>Hur blir jag kund hos er?</h3>
           <p>Klicka <b><a href="#">här</a></b> för att skicka en intresseanmälan till oss. Vi
