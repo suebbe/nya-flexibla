@@ -8,6 +8,10 @@
   padding-bottom: 200px;
 }
 
+.first {
+  margin-bottom: 70px;
+}
+
 /*added some additional global styling for rows and columns*/
 
 .row {
@@ -17,7 +21,7 @@
 
 .col {
   min-width: 280px;
-  margin: 20px;
+  margin: 10px;
 }
 
 .main-content-wrapper a {

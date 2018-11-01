@@ -4,7 +4,7 @@ class Main extends Component {
   render() {
     return (
       <div className="main-content-wrapper">
-        <div className="row">
+        <div className="row first">
          <div className="col center-align">
            <h1>En smidig administrationstjänst för proffshantverkare</h1>
            <p>Att hantera administration parallellt med yrket som hantverkare
