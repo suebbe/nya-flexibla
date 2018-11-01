@@ -93,15 +93,15 @@
     margin-top: 10rem;
   }
 
-  .top-content p {
+  .header-content p {
     font-size: .5em;
   }
 
-  .top-content h1{
+  .header-content h1{
     font-size: 1.2em;
     font-weight: bolder;
   }
-  .show-all-button {
+  .login-button {
     text-decoration: none;
     color: black;
     font-weight: bolder;
