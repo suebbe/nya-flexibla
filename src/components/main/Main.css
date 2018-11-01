@@ -20,3 +20,12 @@
   min-width: 280px;
   margin: 20px;
 }
+
+.main-content-wrapper a {
+  text-decoration: none;
+  color: rgb(115,194,190);
+}
+
+.main-content-wrapper a:hover {
+  color: rgb(92,155,152);
+}

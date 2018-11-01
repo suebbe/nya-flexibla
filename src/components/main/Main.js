@@ -40,15 +40,14 @@ class Main extends Component {
           <div className="row third-row">
            <div className="col">
             <h3>Hur blir jag kund hos er?</h3>
-            <p>Klicka <b>här</b> för att skicka en intresseanmälan till oss. Vi
+            <p>Klicka <b><a href="#">här</a></b> för att skicka en intresseanmälan till oss. Vi
             återkopplar till dig snarast. Vi tar hand om intergrationen till ditt
             nuvarande bokföringssystem och sköter om administrationen åt dig vid
             en affär.</p>
            </div>
            <div className="col">
-            <h3>Vill du veta mer?</h3>
-            <p>Du är varmt välkommen med dina frågor och funderingar. Vår support
-            svarar mer är gärna på dina frågor via både telefon och epost.</p>
+            <h3>Boka utbildningstillfälle?</h3>
+            <p>Du är varmt välkommen att boka in tillfälle för utbildning genom att klicka <a href="#"><b>här</b>.</a></p>
            </div>
           </div>
         </div>
