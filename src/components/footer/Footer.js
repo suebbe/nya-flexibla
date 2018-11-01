@@ -8,7 +8,7 @@ class Footer extends Component {
         <div className="col">
           <h5>Kontakt</h5>
           <p>
-            <i className="fas fa-phone"></i>&emsp;  0771-7350 300 <br/>
+            <i className="fas fa-phone"></i>&emsp;  020-44 80 00 <br/>
             <i className="fas fa-envelope"></i>&emsp;  info@flexiblakontoret.nu</p>
         </div>
         <div className="col">
@@ -21,7 +21,7 @@ class Footer extends Component {
         </div>
         <div className="col">
           <p>
-            <i className="fas fa-home"></i> &emsp; Karlsbodavägen 2,168 67 Bromma
+            <i className="fas fa-home"></i> &emsp; Box 20073, 161 02 Bromma
           </p>
         </div>
       </div>
