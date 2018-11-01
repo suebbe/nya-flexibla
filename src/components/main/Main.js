@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Main extends Component {
   render() {
     return (
-      <div className="main-content">
-        <div className="first-wrapper">
+      <div className="main-container">
+        <div className="main-content-wrapper">
           <div className="row first-row">
            <div className="col center-align">
              <h1>En smidig administrationstjänst för proffshantverkare</h1>
@@ -50,28 +50,6 @@ class Main extends Component {
             <p>Du är varmt välkommen med dina frågor och funderingar. Vår support
             svarar mer är gärna på dina frågor via både telefon och epost.</p>
            </div>
-          </div>
-        </div>
-        <div className="footer-wrapper">
-          <div className="row fourth-row">
-            <div className="col">
-              <h5>Kontakt</h5>
-              <p>
-                 <i class="fas fa-phone"></i>&emsp;  0771-7350 300 <br/>
-                 <i class="fas fa-envelope"></i>&emsp;  info@flexiblakontoret.nu</p>
-            </div>
-            <div className="col">
-              <h5>Öppettider</h5>
-              <p> Mån - Fre: &emsp; 08:00 - 16:00 </p>
-            </div>
-            <div className="col">
-            <h5>Sociala Medier</h5>
-            <p><a href="#"><i class="fab fa-facebook"></i> </a> &emsp; <a href="#"><i class="fab fa-instagram"></i></a>  </p>
-            </div>
-            <p>
-            <i class="fas fa-home"></i> &emsp; Karlsbodavägen 2
-                168 67 Bromma
-            </p>
           </div>
         </div>
       </div>

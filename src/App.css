@@ -2,7 +2,8 @@
 @import './Globals.css';
 @import './Grid.css';
 @import './components/main/Main.css';
-@import './components/nav/Nav.css';
+@import './components/header/Header.css';
+@import './components/footer/Footer.css';
 
 .app {
   position: absolute;

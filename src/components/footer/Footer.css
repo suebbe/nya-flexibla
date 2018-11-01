@@ -1,0 +1,23 @@
+/*footer-wrapper below this point*/
+
+.footer-content-wrapper {
+  background-color: black;
+  width: 100% !important;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: white;
+  text-align: center;
+}
+
+/*social-media buttons below this point*/
+
+.fab {
+  font-size: 30px;
+  color: rgb(115,194,190);
+}
+
+.fab:hover {
+    text-decoration: none;
+    color: rgb(92,155,152);
+}
