@@ -17,6 +17,13 @@
   margin: 0 auto;
 }
 
+/*media query that sets the background image to centre when in mobile mode*/
+
+@media screen and (max-width: 640px) {
+  .app {
+    background-position: center;
+  }
+}
 
 
 * {
