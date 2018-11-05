@@ -16,7 +16,7 @@ class Main extends Component {
         </div>
         <div className="row">
          <div className="col">
-           <h3>Vad erbjuder lösningen?</h3>
+           <h3>Vad erbjuder Flexibla Kontoret?</h3>
            <p>Kundregister, arbetsorder, inköpt material, tidrapportering och
            fakturering – allt hanteras på samma ställe i Flexibla Kontoret. Här
            registrerar du snabbt, smidigt och utan krånglig administration, du
@@ -39,17 +39,17 @@ class Main extends Component {
         <div className="row">
          <div className="col">
           <h3>Hur blir jag kund hos er?</h3>
-          <p>Klicka <b><a href="mailto:info@flexiblakontoret.nu">här</a></b> för
+          <p>Klicka <b> <a href="mailto:info@flexiblakontoret.se?subject=Intresseanmälan Flexibla Kontoret&body=//Skriv ditt meddelande här. Tänk på att få med dina kontaktuppgifter och under vilka tider vi kan nå dig. Hälsningar Flexibla Kontoret//">här</a></b> för
           att skicka en intresseanmälan till oss så kontaktar vi dig snarast.
-          Du är även välkommen att ringa till oss på 020-44 80 00 för att komma
+          Du är även välkommen att ringa till oss på 020-22 11 55 för att komma
           i kontakt med en säljare direkt. Vi tar sedan hand om intergrationen
           till ditt nuvarande bokföringssystem och sköter om administrationen åt
           dig vid en affär.</p>
          </div>
          <div className="col">
-          <h3>Boka utbildningstillfälle?</h3>
-          <p>Du är varmt välkommen att boka in tillfälle för utbildning genom
-          att klicka <a href="#"><b>här</b>.</a></p>
+          <h3>Boka introduktion?</h3>
+          <p>Du är varmt välkommen att boka in introduktionstillfälle genom
+          att klicka <b><a href="mailto:support@flexiblakontoret.se?subject=Bokning av introduktion av Flexibla Kontoret&body=//Skriv ditt meddelande här. Tänk på att få med dina kontaktuppgifter och under vilka tider vi kan nå dig. Hälsningar Flexibla Kontoret//">här</a></b></p>
          </div>
         </div>
       </div>
