@@ -8,6 +8,10 @@
   padding-bottom: 200px;
 }
 
+video {
+  width: 100%;
+}
+
 .first {
   margin-bottom: 70px;
 }

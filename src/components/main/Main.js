@@ -1,9 +1,18 @@
 import React, { Component } from 'react';
+import Video from '../FLEX_KON.mp4';
 
 class Main extends Component {
   render() {
     return (
       <div className="main-content-wrapper">
+        <div className="row">
+        <div className="col center-align">
+          <video controls>
+            <source src= { Video } type="video/mp4"/>
+              Your browser does not support the video tag.
+          </video>
+        </div>
+        </div>
         <div className="row first">
          <div className="col center-align">
            <h1>En smidig administrationstjänst för proffshantverkare</h1>
@@ -29,10 +38,10 @@ class Main extends Component {
            back-up säkerhetslösningar och ett arbetsverktyg för stöd i ditt
            pågående arbete. Du loggar enkelt in via webben.</p>
            <p>
-           - Tillgång till vår in-house support.<br/>
            - Synkning med externa bokföringssystem.<br/>
            - Fakturor, tidrapporter och arbetsordrar på ett och samma ställe.<br/>
            - Enkelt att administrera själv.<br/>
+           - Tillgång till vår in-house support.<br/>
            </p>
          </div>
         </div>
